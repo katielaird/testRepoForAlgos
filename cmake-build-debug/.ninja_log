@@ -1,0 +1,5 @@
+# ninja log v5
+564	632	1676320329223471620	ShellSortProject	4ed7dc3c30709a8
+0	493	1676320659849096795	CMakeFiles/ShellSortProject.dir/main.o	b7497da3f748976e
+1	511	1676320659868078767	CMakeFiles/ShellSortProject.dir/SortClass.o	71015057f0b6717f
+511	564	1676320659924033993	ShellSortProject	af7eaa33c9cfb224

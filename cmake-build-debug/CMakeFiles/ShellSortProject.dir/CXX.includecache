@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.r55Tf343wB/SortClass.cpp
+iostream
+-
+vector
+-
+cstdlib
+-
+ctime
+-
+SortClass.h
+/tmp/tmp.r55Tf343wB/SortClass.h
+exception
+-
+math.h
+-
+
+/tmp/tmp.r55Tf343wB/SortClass.h
+iostream
+-
+vector
+-
+
+/tmp/tmp.r55Tf343wB/main.cpp
+iostream
+-
+SortClass.h
+/tmp/tmp.r55Tf343wB/SortClass.h
+
